@@ -1,3 +1,5 @@
-Why an altered file?  
+Why should I alter the same file again for no aparent reason?  
 
 Becuase I can!
+
+And I need practice with Git and Github...
